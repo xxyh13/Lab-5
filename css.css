@@ -40,11 +40,5 @@ h2 {
 .Infolink {
   text-align: center;
   color: white;
-  display: inline-block; /*Display in center */
   display: center;
-}
-.theplanets {
-  text-align: center;
-  display: inline-block; /*Display in center */
-  display: inline-table;
 }
