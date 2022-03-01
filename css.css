@@ -1,8 +1,6 @@
 td {
   border-style: none;
   text-align: center;
-}
-td {
   font-size: 15;
   font-family: fantasy;
 }
@@ -39,7 +37,7 @@ h2 {
     color: red;
     display: center;
 }
-.Info link {
+.Infolink {
   text-align: center;
   color: white;
 }
