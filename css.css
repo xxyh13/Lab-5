@@ -17,7 +17,7 @@ table {
   font-family: monospace;
   border-collapse: inherit;
   text-align: center;
-  color; yellow;
+  color; black;
 }
 h1 {
   font-size: 4e;
@@ -40,4 +40,7 @@ h2 {
 .Infolink {
   text-align: center;
   color: white;
+}
+.theplanets {
+  text-align: center;
 }
