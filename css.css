@@ -1,13 +1,3 @@
-td {
-  border-style: none;
-  text-align: center;
-  font-size: 15;
-  font-family: fantasy;
-}
-tr {
-  text-align: center;
-  color: white;
-}
 body {
   background-image: url(https://www.itl.cat/pngfile/big/196-1961254_galaxy-wallpapers-for-ipad-group-pastel-pink-galaxy.jpg);
   background-repeat: no-repeat;
@@ -17,7 +7,7 @@ table {
   font-family: monospace;
   border-collapse: inherit;
   text-align: center;
-  color; black;
+  color: white;
 }
 h1 {
   font-size: 4e;
