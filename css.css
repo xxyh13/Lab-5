@@ -25,7 +25,6 @@ h2 {
   text-align: center;
 }
 .planetImgColumn {
-    display: inline-block; /* Display images side-by-side */
     margin-left: auto;
     margin-right: auto;
 }
