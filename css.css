@@ -15,6 +15,7 @@ table {
   font-family: monospace;
   border-collapse: inherit;
   text-align: center;
+  color; yellow;
 }
 h1 {
   font-size: 4e;
@@ -31,6 +32,7 @@ h2 {
 .planetImgColumn {
     display: inline-block; /* Display images side-by-side */
     text-align: center;
+    color: red;
 }
 .Info link {
   text-align: center;
