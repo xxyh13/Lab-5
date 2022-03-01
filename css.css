@@ -11,3 +11,20 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+table {
+  font-family: monospace;
+  border-collapse: inherit;
+}
+h1 {
+  font-size: 4e;
+  font-family: sans-serif;
+  color: white;
+}
+h2 {
+  font-size: 2e;
+  font-family: cursive;
+  color: white;
+}
+.planetImgColumn {
+    display: inline-block; /* Display images side-by-side */
+}
