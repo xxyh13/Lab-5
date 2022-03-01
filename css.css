@@ -28,7 +28,9 @@ h2 {
     padding-bottom: 15px;
 }
 .Infolink {
-  text-align: center;
   color: white;
   display: center;
+}
+.theplanets {
+  text-align: center;
 }
