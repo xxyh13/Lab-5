@@ -37,6 +37,7 @@ h2 {
     display: inline-block; /* Display images side-by-side */
     text-align: center;
     color: red;
+    display: center;
 }
 .Info link {
   text-align: center;
