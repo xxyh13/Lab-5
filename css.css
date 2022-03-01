@@ -8,6 +8,9 @@ table {
   border-collapse: inherit;
   text-align: center;
   color: white;
+  size; 4e;
+  margin-left: auto;
+  margin-right: auto;
 }
 h1 {
   font-size: 4e;
@@ -32,5 +35,5 @@ h2 {
   display: center;
 }
 .theplanets {
-  text-align: center;
+  text-align: left;
 }
