@@ -45,4 +45,6 @@ h2 {
 }
 .theplanets {
   text-align: center;
+  display: inline-block; /*Display in center */
+  display: inline-table;
 }
