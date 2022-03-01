@@ -34,6 +34,9 @@ h2 {
   color: white;
   display: center;
 }
-.theplanets {
-  text-align: left;
+.theplanets {/* Planet names in table */
+    border-style: solid;
+    border-width: 2px;
+    padding: 5px;
+    text-align: center;
 }
